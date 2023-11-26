@@ -6,7 +6,8 @@
 # A Basic Single Page Application(SPA) React App
 
 <h1> [Show Live preview] (https://strong-queijadas-e213e3.netlify.app/)
-</
+</h1>
+
 
 # Focused On
 <li> Using Components
