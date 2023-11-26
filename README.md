@@ -5,7 +5,10 @@
 
 # A Basic Single Page Application(SPA) React App
 
-## Focused On
+<h1> [Show Live preview] (https://strong-queijadas-e213e3.netlify.app/)
+</
+
+# Focused On
 <li> Using Components
 <li> Routing
 <li> State Management
@@ -28,7 +31,7 @@
 # Clone This Repository
 You can clone this repository by running following command in terminal/command prompt:
 
-``` git clone https://github.com/ahsanulhoqueabir/bookShop-react-spa.git ```
+``` git clone https://github.com/ahsanulhoqueabir/bookShop-react-spa.git ``` <br>
 or download zip file from here [https://github.com/ahsanulhoqueabir/bookShop-react-spa]
 
 
