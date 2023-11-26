@@ -5,8 +5,8 @@
 
 # A Basic Single Page Application(SPA) React App
 
-<h1> [Show Live preview] (https://strong-queijadas-e213e3.netlify.app/)
-</h1>
+# Show Live preview [Click Here](https://strong-queijadas-e213e3.netlify.app/)
+
 
 
 # Focused On
@@ -24,16 +24,29 @@
 2. Open Terminal or Command Prompt, navigate to the directory where you want your project folder to be created.
 2. Open Terminal or Command Prompt.
 3. Navigate to the directory where you want your project folder to be created.
-4. Run `npm create vite@latest myShop` replacing "myShop" with whatever name you prefer for your app.
-5. Wait until it finishes installing all dependencies.
-6. Once finished, navigate into the newly created project folder using: `cd myShop`.
-7. To start the development server run: `npm run dev`. This will open a new browser window displaying your application at http://localhost:5173
+4. Run
+   ```sh
+   npm create vite@latest myShop
+   ```
+   replacing "myShop" with whatever name you prefer for your app.
+6. Wait until it finishes installing all dependencies.
+7. Once finished, navigate into the newly created project folder using:
+   ```
+   cd myShop
+   ```
+9. To start the development server run:
+    ```
+    npm run dev
+   ```
+   This will open a new browser window displaying your application at http://localhost:5173
 
 # Clone This Repository
 You can clone this repository by running following command in terminal/command prompt:
 
-``` git clone https://github.com/ahsanulhoqueabir/bookShop-react-spa.git ``` <br>
-or download zip file from here [https://github.com/ahsanulhoqueabir/bookShop-react-spa]
+```sh 
+git clone https://github.com/ahsanulhoqueabir/bookShop-react-spa.git
+```
+or download zip file [from here](https://github.com/ahsanulhoqueabir/bookShop-react-spa)
 
 
 
